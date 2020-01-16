@@ -1,0 +1,6 @@
+c:\users\furkan\documents\visual studio 2015\Projects\rynject\rynject\bin\Release\rynject.exe.config
+c:\users\furkan\documents\visual studio 2015\Projects\rynject\rynject\bin\Release\rynject.exe
+c:\users\furkan\documents\visual studio 2015\Projects\rynject\rynject\bin\Release\rynject.pdb
+c:\users\furkan\documents\visual studio 2015\Projects\rynject\rynject\obj\Release\rynject.csprojResolveAssemblyReference.cache
+c:\users\furkan\documents\visual studio 2015\Projects\rynject\rynject\obj\Release\rynject.exe
+c:\users\furkan\documents\visual studio 2015\Projects\rynject\rynject\obj\Release\rynject.pdb
